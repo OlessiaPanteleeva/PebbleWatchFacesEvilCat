@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "olessiapanteleeva@gmail.com",
+    "longName": "WachFaceEvilCat",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cat.png",
+                "menuIcon": true,
+                "name": "CAT_IMAGE_ID",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "EvilCat",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5973f2c4-41ba-4346-98ca-729ef0080ca8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
